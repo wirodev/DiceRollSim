@@ -1,0 +1,14 @@
+/Users/wiro/Desktop/C#/DiceRollSim/bin/Debug/net7.0/DiceRollSim
+/Users/wiro/Desktop/C#/DiceRollSim/bin/Debug/net7.0/DiceRollSim.deps.json
+/Users/wiro/Desktop/C#/DiceRollSim/bin/Debug/net7.0/DiceRollSim.runtimeconfig.json
+/Users/wiro/Desktop/C#/DiceRollSim/bin/Debug/net7.0/DiceRollSim.dll
+/Users/wiro/Desktop/C#/DiceRollSim/bin/Debug/net7.0/DiceRollSim.pdb
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/DiceRollSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/DiceRollSim.AssemblyInfoInputs.cache
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/DiceRollSim.AssemblyInfo.cs
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/DiceRollSim.csproj.CoreCompileInputs.cache
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/DiceRollSim.dll
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/refint/DiceRollSim.dll
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/DiceRollSim.pdb
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/DiceRollSim.genruntimeconfig.cache
+/Users/wiro/Desktop/C#/DiceRollSim/obj/Debug/net7.0/ref/DiceRollSim.dll
